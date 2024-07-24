@@ -1,0 +1,1 @@
+class MyOrdersVoucherType3Model {}

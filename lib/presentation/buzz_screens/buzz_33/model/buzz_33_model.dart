@@ -1,0 +1,1 @@
+class Buzz33Model {}

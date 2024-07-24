@@ -1,0 +1,1 @@
+class Quizzes10Model {}

@@ -1,0 +1,1 @@
+class Buzz32Model {}

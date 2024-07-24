@@ -1,0 +1,1 @@
+class Hub3Model {}

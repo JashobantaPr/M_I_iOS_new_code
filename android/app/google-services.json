@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832047530383",
+    "project_id": "myincentives",
+    "storage_bucket": "myincentives.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832047530383:android:bf2d8bcba221c238070bfa",
+        "android_client_info": {
+          "package_name": "com.grgindia.myincentives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832047530383-c0c0d6rnn2ouo3ibv7s24s04obmhbra6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD7N-PBPHdPj5ibUsV2MD-CK0qs1ZRMdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832047530383-c0c0d6rnn2ouo3ibv7s24s04obmhbra6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

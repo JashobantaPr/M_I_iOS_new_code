@@ -1,0 +1,1 @@
+class Quizzes16Model {}
